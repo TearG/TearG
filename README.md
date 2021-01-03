@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Vanessa
-![](https://upload.wikimedia.org/wikipedia/commons/0/01/Vanessa_braziliensis.jpg)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/0/01/Vanessa_braziliensis.jpg' height='40' width='40' >]
 
 I'm a developer with a lot of desire to learn and I'm looking for a place in the market to show what I can do.
 
