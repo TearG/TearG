@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Vanessa
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://upload.wikimedia.org/wikipedia/commons/0/01/Vanessa_braziliensis.jpg)
 
 I'm a developer with a lot of desire to learn and I'm looking for a place in the market to show what I can do.
 
