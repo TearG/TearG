@@ -3,9 +3,9 @@
 
 "Desenvolvedora em desenvolvimento"
 
-## Nome completo
+## Nome 
 
-Vanessa de Carvalho Faria
+Vanessa Faria
 
 ## Localidade
 
