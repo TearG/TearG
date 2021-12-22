@@ -9,8 +9,7 @@ Vanessa Faria
 
 ## Localidade
 
-Rio de Janeiro/RJ (Até o mês 3 de 2021)
-São Paulo/Osasco (Endereço futuro)
+Rio de Janeiro/RJ
 
 ## Apresentação
 
