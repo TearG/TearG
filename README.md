@@ -1,7 +1,7 @@
 ### Oi 👋, meu nome é Vanessa
 <img src='https://upload.wikimedia.org/wikipedia/commons/0/01/Vanessa_braziliensis.jpg' height='240' width='280' >
 
-"Desenvolvedora em desenvolvimento"
+"Tester em Desenvolvimento"
 
 ## Nome 
 
