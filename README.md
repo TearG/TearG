@@ -12,21 +12,27 @@
 </div>
  
 ------------------------------------------------------------
-## Skills
+## Linguagens
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   </div>
   
+
+## Skills de Tester
+- Robot Framework
+- Cypress
+
 ## Localidade
 
 Rio de Janeiro/RJ
-
+------------------------------------------------------------
 ## Apresentação
 
 No início de 2005,ingressei em uma carreira e me decidi continuar até final de 2007. Tudo mudou, pois infelizmente não vi portas abertas para esta área, decidindo me dedicar aos Concursos Públicos.
@@ -56,15 +62,7 @@ Juntando o útil ao agradável,ajudei a ONG como voluntária e com isso obtive �
 - Programação Web | FAETEC (Dez/2015)
 - Linguagem de Programação Java - Introdução|INFNET(Fev/2014)
 
-## Skills
-- Robot Framework
-- Cypress
-- HTML CSS
-- UX
-- PHP
-- Java
-- React e React Native
-- Nodejs
+
 
 
 ## Áreas de Interesse
