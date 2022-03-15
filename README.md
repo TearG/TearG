@@ -42,7 +42,8 @@ Juntando o útil ao agradável,ajudei a ONG como voluntária e com isso obtive �
 - Linguagem de Programação Java - Introdução|INFNET(Fev/2014)
 
 ## Skills
-
+- Robot Framework
+- Cypress
 - HTML CSS
 - UX
 - PHP
