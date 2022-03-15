@@ -23,8 +23,7 @@ Juntando o útil ao agradável,ajudei a ONG como voluntária e com isso obtive �
 
 - Atualmente estou me especializando em novas Stacks como Cloud (Azure,AWS), Desenvolvimento Web e Análise de Sistemas.
 
-- Estou em busca de colocar estas especializações em prática como Estagiária em Desenvolvimento de Sistemas ou Desenvolvedor (a) Full Stack Júnior.
-
+- Estou buscando a cada dia me especializar na área de Testes e por em prática como Estagiária em QA Tester.
 ## Cursos e capacitações
 
 - Certificação OKR Essencial | Feedz Educa (Dez/2020)
@@ -54,10 +53,10 @@ Juntando o útil ao agradável,ajudei a ONG como voluntária e com isso obtive �
 
 ## Áreas de Interesse
 
-- [ ] Testes
+- [x] Testes
 - [x] Frontend
 - [ ] Backend
-- [x] Fullstack
+- [ ] Fullstack
 - [x] Data Science
 - [ ] Mobile
 - [x] UX
