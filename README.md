@@ -1,11 +1,17 @@
-### Oi 👋, meu nome é Vanessa
+### Oi 👋, meu nome é Vanessa Faria
 <img src='https://upload.wikimedia.org/wikipedia/commons/0/01/Vanessa_braziliensis.jpg' height='240' width='280' >
-
 "Tester Intern em Desenvolvimento"
 
-## Nome 
+- Hoje sou Estagiária de QA Tester com ênfase em Testes Automatizados;
+- Estou estudando Testes de API | Desenvolvimento de API | Robot Framework | Cypress
 
-Vanessa Faria
+<div align="center">
+  <a href="https://github.com/TearG">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TearG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TearG&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
+------------------------------------------------------------
 
 ## Localidade
 
