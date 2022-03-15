@@ -27,10 +27,6 @@ Juntando o útil ao agradável,ajudei a ONG como voluntária e com isso obtive �
 
 ## Cursos e capacitações
 
-- Oracle One: Java | ALURA (Cursando)
-- everis FullStack Developer | Digital Innovation One (Cursando)
-- Capacitação para certificação HUAWEI | IFMA (Cursando)
-- Amazon Aws Solutions Architect SAA-C02| Udemy (Cursando)
 - Certificação OKR Essencial | Feedz Educa (Dez/2020)
 - Digital Immersion Program (Novas Tecnologias) | Digital House (Nov/2020)
 - DevOps Fundamentals | 4Linux (Nov/2020)
@@ -57,6 +53,7 @@ Juntando o útil ao agradável,ajudei a ONG como voluntária e com isso obtive �
 
 ## Áreas de Interesse
 
+- [ ] Testes
 - [x] Frontend
 - [ ] Backend
 - [x] Fullstack
@@ -71,7 +68,7 @@ Juntando o útil ao agradável,ajudei a ONG como voluntária e com isso obtive �
 
 - [ ] PJ
 - [x] CLT
-- [x] Estágio
+- [ ] Estágio
 - [x] Júnior
 - [ ] Freela
 
