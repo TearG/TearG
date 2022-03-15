@@ -5,7 +5,7 @@
 - Hoje sou Estagiária de QA Tester com ênfase em Testes Automatizados;
 - Estou estudando Testes de API | Desenvolvimento de API | Robot Framework | Cypress
 
-<div align="center">
+<div>
   <a href="https://github.com/TearG">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TearG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TearG&layout=compact&langs_count=7&theme=dracula"/>
