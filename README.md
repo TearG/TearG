@@ -58,7 +58,7 @@ Juntando o útil ao agradável,ajudei a ONG como voluntária e com isso obtive �
 - [x] Frontend
 - [ ] Backend
 - [x] Fullstack
-- [ ] Data Science
+- [x] Data Science
 - [ ] Mobile
 - [x] UX
 - [ ] DevOps
