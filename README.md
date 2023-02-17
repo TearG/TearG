@@ -28,35 +28,23 @@
 ## Skills de Tester
 - Robot Framework
 - Cypress
+- UFT
+- Selenium IDE
 
 ## Localidade
 
 Rio de Janeiro/RJ
 ------------------------------------------------------------
 
-## Áreas de Interesse
-
-- [x] Testes de Software
-- [ ] Frontend
-- [ ] Backend
-- [ ] Fullstack
-- [ ] Mobile
-- [x] UX
-- [x] DevOps
-- [ ] Infra
--->
-
-
 ## Contato
 
  https://www.linkedin.com/in/vanessafaria/ 
-
+  
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vanessafaria//)  
 ## Site
 
  https://github.com/TearG 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/TearG)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vanessafaria//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/TearG) 
 
 
 -->
