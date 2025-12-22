@@ -8,11 +8,15 @@ Especialista em QA de Dados e Engenharia Analítica: Atuei elevando a cobertura 
 Entusiasta de IA, Cloud e Visual Storytelling: Traduzo conceitos complexos em narrativas acessíveis, utilizando HQs didáticas (como o Gato Cientista) para democratizar o conhecimento técnico.
 Apaixonada por investigação técnica: Gosto de buscar a raiz dos problemas usando SQL, Python e ferramentas de Big Data.
 Atualmente cursando MBA em Tecnologia para Negócios (AI, Data Science & Big Data) na PUCRS e Bacharelado em Engenharia de Computação.
+
+
 🛠️ Principais Competências
 Qualidade de Software & Engenharia de Testes: Cypress, Puppeteer, CI/CD, automação de testes E2E, QA para dados e aplicações web/mobile.
 Data Analytics & Modelagem: SQL, Python, Hive, curadoria e análise de logs, padronização de troubleshooting.
 DevOps & Modernização: Implantação de pipelines e esteiras automatizadas, Gitflow.
 Storytelling & Tech Writing: Visualização de dados, produção de conteúdos didáticos sobre IA, segurança digital e uso ético da tecnologia.
+
+
 📈 Resultados de Impacto
 Aumento expressivo da cobertura de testes (8% → 79%) em grandes players do setor.
 Melhoria na nota de aplicativos mobile por meio da otimização da IA e UX.
@@ -20,6 +24,7 @@ Redução de retrabalho e mitigação de riscos financeiros através da automaç
 Publicação de artigos e conteúdos educativos sobre segurança digital.
 👩‍💻 Tecnologias & Ferramentas
 <div style="display: inline_block"><br> <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> </div>
+
 Ferramentas de Teste
 Cypress • Robot Framework • Selenium IDE • UFT • Puppeteer
 Outras Skills
@@ -27,6 +32,8 @@ Análise e Modelagem de Dados
 DevOps • CI/CD • Gitflow
 Visual Storytelling (HQs técnicas)
 Tech Writing
+
+
 🌍 Localização
 Rio de Janeiro, RJ — Brasil
 
