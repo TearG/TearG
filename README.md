@@ -20,10 +20,10 @@
 
 Profissional da área de **Dados e Inteligência Artificial**, unindo uma sólida formação quantitativa (**Licenciatura Plena em Matemática** e **MBA em IA, Data Science e Big Data pela PUCRS**) à experiência corporativa em ambiente regulado e de grande porte na **IBM**.
 
-Minha atuação é focada em transformar grandes volumes de dados complexos em inteligência acionável, modelos preditivos confiáveis e soluções práticas de **IA Generativa**, com forte compromisso com **Data Quality**, **Governança** e **Auditoria Técnica de Dados**.
+Minha atuação é focada em transformar grandes volumes de dados complexos em inteligência acionável, análises estatísticas rigorosas e soluções práticas de **IA Generativa**, com forte compromisso com **Data Quality**, **Governança de Dados** e **Auditoria Técnica**.
 
-- 🎓 **Formação Contínua:** Graduanda em **Engenharia de Computação** e Técnica em **Inteligência Artificial (IFNMG)**.
-- 💡 **Diferencial:** Raciocínio matemático-estatístico rigoroso, vivência prática com clusters de Big Data (Hive/SQL), curadoria de agentes conversacionais de IA e garantia de integridade de ponta a ponta.
+- 🎓 **Formação Contínua:** Graduanda em **Engenharia de Computação (Descomplica)** e Técnica em **Inteligência Artificial (IFNMG)**.
+- 💡 **Diferencial:** Raciocínio matemático-estatístico estruturado, vivência prática com clusters de Big Data (Hive/SQL), curadoria e refinamento de fluxos de IA conversacional e certificação internacional em testes e integridade (**ISTQB CTFL**).
 
 ---
 
@@ -32,41 +32,41 @@ Minha atuação é focada em transformar grandes volumes de dados complexos em i
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 Ciência de Dados & Modelagem</h3>
+      <h3>📊 Ciência de Dados & Estatística</h3>
       <ul>
-        <li><b>Linguagens:</b> Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)</li>
-        <li><b>Modelagem:</b> Machine Learning supervisionado, Regressão Linear, Classificação</li>
-        <li><b>Estatística:</b> Testes de Hipótese, Testes A/B, Estatística Inferencial e Descritiva</li>
-        <li><b>Exploração:</b> Análise Exploratória de Dados (EDA), Jupyter Notebooks, Google Colab</li>
+        <li><b>Linguagens & Ambientes:</b> Python (Pandas, Matplotlib), Jupyter Notebook, Google Colab</li>
+        <li><b>Estatística Aplicada:</b> Testes de Hipótese, Testes A/B, Estatística Inferencial e Descritiva</li>
+        <li><b>Modelagem Analítica:</b> Regressão Linear, fundamentos de Machine Learning, EDA (Análise Exploratória)</li>
+        <li><b>Escrita Técnica:</b> Artigos sobre dados, estatística aplicada a finanças, clusterização e métricas RFV</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 Inteligência Artificial & GenAI</h3>
       <ul>
-        <li><b>IA Generativa:</b> Google Gemini API, LLMs, Agentes de IA, RAG</li>
+        <li><b>IA Generativa:</b> Google Gemini API, LLMs, Agentes de IA, Arquitetura e Orquestração de Prompts</li>
         <li><b>Engenharia de Prompt:</b> Certificação USP para Engenharia de Software</li>
-        <li><b>Curadoria de IA & NLP:</b> Curadoria e treinamento de chatbots (IBM Watson)</li>
-        <li><b>Governança:</b> Formação em Compliance de IA (TIexames), Ética e conformidade LGPD</li>
+        <li><b>Curadoria de IA & NLP:</b> Curadoria contínua, saneamento e enriquecimento de dados de chatbot (IBM Watson)</li>
+        <li><b>Governança & Ética:</b> Formação em Compliance de IA (TIexames), Governança de Dados, LGPD</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>☁️ Big Data, Cloud & Engenharia</h3>
+      <h3>☁️ Big Data & Engenharia de Dados</h3>
       <ul>
-        <li><b>Bancos & Queries:</b> SQL Avançado (consultas complexas, joins, window functions)</li>
-        <li><b>Big Data:</b> Apache Hive, Hue (exploração de logs e grandes volumes de dados)</li>
-        <li><b>Cloud Computing:</b> AWS Cloud Fundamentals, AWS GenAI Fundamentals, FinOps</li>
-        <li><b>Pipelines & Qualidade:</b> Conceitos de ETL/ELT, Esteiras de dados, Integridade e Data Quality</li>
+        <li><b>Bancos & Queries:</b> SQL (consultas analíticas, joins, agregações e subqueries)</li>
+        <li><b>Big Data:</b> Apache Hive, Hue (investigação de grandes volumes de logs e dados corporativos)</li>
+        <li><b>Pipelines & Qualidade:</b> Conceitos de ETL, integridade referencial e Data Quality</li>
+        <li><b>Cloud Computing:</b> Fundamentos de Cloud (AWS/Azure), Santander Jornada Tech AWS, AWS GenAI Fundamentals</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>📈 Business Intelligence & Métricas</h3>
+      <h3>📈 Business Intelligence & Métodos</h3>
       <ul>
-        <li><b>BI & Analytics:</b> Power BI (Dashboards interativos, Power Query, ETL, DAX básico)</li>
-        <li><b>Planilhas & Negócios:</b> Excel Avançado, Modelagem Financeira e KPIs estratégicos</li>
-        <li><b>Comunicação:</b> Data Storytelling e tradução de métricas para tomada de decisão</li>
-        <li><b>Metodologias:</b> Git/GitHub, Scrum, Kanban, Jira</li>
+        <li><b>BI & Analytics:</b> Power BI (Dashboards analíticos, ETL e modelagem com Power Query)</li>
+        <li><b>Planilhas & Negócios:</b> Excel Avançado, Finanças corporativas e Controladoria</li>
+        <li><b>Qualidade & Métodos:</b> Certificação ISTQB CTFL, Cypress, Puppeteer, JavaScript, Git/GitHub</li>
+        <li><b>Metodologias Ágeis:</b> Scrum, Kanban, trabalho orientado a metas e entregas iterativas</li>
       </ul>
     </td>
   </tr>
@@ -84,21 +84,9 @@ Durante minha atuação na **IBM** atendendo a clientes de grande porte no setor
 
 ---
 
-## 💼 Destaques do Portfólio
+## 💼 Projetos Aplicados & Destaques de Portfólio
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/TearG/telecom-churn-prediction">📊 Telecom Churn Prediction</a></h4>
-      <p>Projeto de <b>Ciência de Dados e Machine Learning</b> para predição e mitigação de cancelamentos de clientes em telecomunicações. Inclui análise exploratória de dados (EDA), tratamento de variáveis categóricas, engenharia de atributos e treinamento de modelos de classificação em Python com <b>Scikit-learn</b> e <b>Pandas</b>.</p>
-      <p><code>Python</code> <code>Machine Learning</code> <code>EDA</code> <code>Scikit-learn</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/TearG/ai-data-quality-guard">🛡️ AI Data Quality Guard</a></h4>
-      <p>Framework e salvaguardas voltados à <b>garantia de integridade, consistência e governança de dados</b> para esteiras de Inteligência Artificial. Implementa regras automatizadas de auditoria de dados, validação de premissas e controles alinhados a boas práticas de <b>Data Quality e Compliance</b>.</p>
-      <p><code>Data Quality</code> <code>Governança</code> <code>Python</code> <code>Compliance IA</code></p>
-    </td>
-  </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>👶 Help Mãe (IA Generativa & GenAI)</h4>
@@ -106,9 +94,21 @@ Durante minha atuação na **IBM** atendendo a clientes de grande porte no setor
       <p><code>Google Gemini</code> <code>Prompt Engineering</code> <code>GenAI</code> <code>Full-Cycle</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🔬 Análises Estatísticas & EDA (Colab / GitHub)</h4>
-      <p>Série de projetos aplicados desenvolvidos no Colab explorando <b>Regressão Linear</b>, <b>Testes Estatísticos de Hipóteses (A/B)</b> e o projeto <b>Meteora</b> (extração integrada SQL + Python e visualização analítica orientada a tomada de decisões de negócios).</p>
-      <p><code>Estatística Aplicada</code> <code>Testes de Hipótese</code> <code>SQL</code> <code>Seaborn</code></p>
+      <h4>📈 Regressão Linear Aplicada (Colab / Python)</h4>
+      <p>Projeto de <b>Ciência de Dados</b> focado na construção e interpretação de modelo preditivo em Python, avaliando correlações estatísticas, premissas de regressão e comportamento de variáveis explicativas com <b>Pandas</b> e <b>Matplotlib</b>.</p>
+      <p><code>Python</code> <code>Regressão Linear</code> <code>EDA</code> <code>Google Colab</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔬 Testes Estatísticos & Hipóteses com Python (Colab)</h4>
+      <p>Aplicação prática de <b>estatística inferencial</b>, testes de hipóteses e comparação paramétrica/não-paramétrica de distribuições com <b>Python</b> e <b>Pandas</b>, validando significância estatística em conjuntos de dados analíticos.</p>
+      <p><code>Estatística Aplicada</code> <code>Testes de Hipótese</code> <code>Testes A/B</code> <code>Pandas</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛍️ Meteora (Integração SQL + Python)</h4>
+      <p>Análise de dados completa de ponta a ponta combinando <b>SQL</b> para extração analítica e <b>Python</b> para exploração e visualização de métricas de vendas e comportamento de clientes orientadas à tomada de decisão.</p>
+      <p><code>SQL</code> <code>Python</code> <code>ETL</code> <code>Data Storytelling</code></p>
     </td>
   </tr>
 </table>
@@ -117,28 +117,31 @@ Durante minha atuação na **IBM** atendendo a clientes de grande porte no setor
 
 ## 🎓 Formação Acadêmica & Especializações
 
-- 🎓 **Licenciatura Plena em Matemática** — *Universidade Castelo Branco* (2011)  
-  *Base matemática sólida: cálculo, álgebra linear, probabilidade e pensamento analítico rigoroso.*
+- 🎓 **Licenciatura Plena em Matemática** — *Universidade Castelo Branco* (Concluída em 2011)  
+  *Base quantitativa sólida: cálculo, álgebra linear, probabilidade e pensamento analítico rigoroso.*
 - 🧠 **MBA em Tecnologia para Negócios: IA, Data Science e Big Data** — *PUCRS* (Concluído em 2026)  
-  *Projetos aplicados em Machine Learning, Python, Big Data e inteligência de negócios.*
+  *Formação aplicada com projetos em Python, Big Data, Machine Learning e inteligência analítica de negócios.*
 - 💻 **Bacharelado em Engenharia de Computação** — *Faculdade Descomplica* (Em andamento • Previsão 2027)
 - 🤖 **Ensino Técnico em Inteligência Artificial** — *IFNMG* (Em andamento • Previsão 2027)
+- ⚙️ **Pós-Graduação em Engenharia e Planejamento DevOps** — *Faculdade VINCIT / Facint* (Concluída em 2024)
+- 🧪 **Pós-Graduação em QA e Teste de Software** — *Faculdade VINCIT / Facint* (Concluída em 2023)
+- 💻 **Tecnólogo em Análise de Sistemas** — *Anhanguera Educacional* (Concluído em 2022)
 - ☁️ **Pós-Graduação em Projetos de Cloud Computing** — *Descomplica* (Concluída com Nota 10 • 2022)
-- ⚙️ **Pós-Graduação em Engenharia e Planejamento DevOps** — *Faculdade VINCIT / Facint* (2024)
-- 🧪 **Pós-Graduação em QA e Teste de Software** — *Faculdade VINCIT / Facint* (2023)
-- 💼 **MBA em Controladoria e Finanças** — *Alfamérica Faculdade* (2018)
+- 💼 **MBA em Controladoria e Finanças** — *Alfamérica Faculdade* (Concluído em 2018)
 
 ---
 
 ## 📜 Certificações & Extensões Estratégicas
 
+- **ISTQB CTFL — Certified Tester Foundation Level** — *Brightest / ISTQB (2022)*
 - **Engenharia de Prompt para Engenheiros de Software** — *Universidade de São Paulo (USP)*
 - **Formação em Compliance de IA & Governança** — *TIexames*
-- **Python e a Matemática de Dados Financeiros** — *Universidade Federal do Rio Grande do Sul (UFRGS)*
 - **Fundamentos de Aprendizado de Máquina** — *DATA ICMC • USP*
-- **AWS Cloud Fundamentals & AWS GenAI Fundamentals** — *Amazon Web Services / Santander*
+- **Python e a Matemática de Dados Financeiros** — *Universidade Federal do Rio Grande do Sul (UFRGS)*
 - **Fundamentos de Estatística Aplicada** — *Fundação CECIERJ / CEDERJ*
 - **Introduction to SQL** — *DataCamp* | **Power BI: Dashboards e ETL com Power Query** — *Alura*
+- **AWS GenAI Fundamentals** — *TIDWIT* | **Santander Jornada Tech AWS**
+- **Fundamentos para Análise de Dados** — *Microsoft* | **Excel para Análise de Dados** — *Preditiva Analytics*
 - **Engajamento e Comunidades:** Mentorada no *Potenc.IA*, participante ativa no *WoMakersCode* e *PrograMaria*.
 
 ---
@@ -148,8 +151,3 @@ Durante minha atuação na **IBM** atendendo a clientes de grande porte no setor
 - 💼 **LinkedIn:** [linkedin.com/in/vanessafaria](https://linkedin.com/in/vanessafaria)
 - 💻 **GitHub:** [github.com/TearG](https://github.com/TearG)
 - 📧 **E-mail:** [faria.info@gmail.com](mailto:faria.info@gmail.com)
-- 📍 **Localização:** Rio de Janeiro, RJ (Disponível para atuação 100% Remota e Híbrida em São Paulo)
-
-<div align="center">
-  <sub><i>"Transformando dados e algoritmos em decisões estratégicas, confiabilidade e impacto real de negócios."</i></sub>
-</div>
