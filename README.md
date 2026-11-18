@@ -36,9 +36,9 @@
       <p><code>Python</code> <code>Time Series</code> <code>Holt-Winters</code> <code>Statsmodels</code> <code>Pandas</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌱 <a href="https://github.com/TearG/DesafioCromai">Diagnóstico Analítico & ML em AgTech</a></h3>
-      <p>Pipeline de exploração de dados, pré-processamento estatístico e classificação supervisionada em Python voltado à análise quantitativa e diagnóstico automatizado no setor de agronegócio.</p>
-      <p><code>Python</code> <code>Machine Learning</code> <code>Classificação</code> <code>EDA</code></p>
+      <h3>🔬 <a href="https://github.com/TearG/ProgramariaAlura">Regressão Linear, Testes de Hipótese & Case Meteora</a></h3>
+      <p>Conjunto de notebooks de <b>Ciência de Dados e Estatística Inferencial</b>: modelagem preditiva de preços de imóveis com <b>Regressão Linear</b>, testes estatísticos de hipóteses em Python e análise exploratória de vendas da loja <b>Meteora</b>.</p>
+      <p><code>Python</code> <code>Regressão Linear</code> <code>Testes de Hipótese</code> <code>Pandas</code></p>
     </td>
   </tr>
 </table>
@@ -56,8 +56,8 @@
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/TearG/ai-data-quality-guard">AI Data Quality Guard — MLOps Gatekeeper</a></h3>
-      <p>Framework automatizado de <b>Qualidade de Dados e MLOps</b> para proteção de pipelines analíticos. Implementa validação de contratos de dados, detecção estatística de <b>Data Drift (Teste de Kolmogorov-Smirnov / KS-Test)</b>, alerta de anomalias e execução contínua via <b>Pytest</b> e <b>GitHub Actions CI/CD</b>.</p>
-      <p><code>Data Quality</code> <code>KS-Test Drift</code> <code>Pytest</code> <code>MLOps</code> <code>GitHub Actions</code></p>
+      <p>Framework automatizado de <b>Qualidade de Dados e MLOps</b> para proteção de pipelines analíticos. Implementa validação de contratos de dados, detecção estatística de <b>Data Drift (KS-Test & PSI — Population Stability Index)</b>, alerta de anomalias e execução contínua via <b>Pytest</b> e <b>GitHub Actions CI/CD</b>.</p>
+      <p><code>Data Quality</code> <code>KS-Test & PSI</code> <code>Pytest</code> <code>MLOps</code> <code>GitHub Actions</code></p>
     </td>
   </tr>
 </table>
@@ -70,13 +70,13 @@
   <tr>
     <td width="50%" valign="top">
       <h3>👁️ <a href="https://github.com/TearG/Python-Reconhecimento-Facial-1">Visão Computacional & Reconhecimento Facial</a></h3>
-      <p>Pipeline completo de processamento digital de imagens, detecção e reconhecimento facial desenvolvido em <b>Python</b> e <b>OpenCV</b>, cobrindo captura, extração de descritores visuais e inferência em tempo real.</p>
+      <p>Pipeline completo de processamento digital de imagens, detecção e reconhecimento facial desenvolvido em <b>Python</b> e <b>OpenCV</b> (<i>Eigenfaces</i>, <i>Fisherfaces</i> e <i>LBPH</i>), cobrindo captura, extração de descritores visuais e inferência em tempo real.</p>
       <p><code>Python</code> <code>OpenCV</code> <code>Computer Vision</code> <code>Image Processing</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧪 <a href="https://github.com/TearG/Mod3IAQuality">Validação & Qualidade em Sistemas de IA</a></h3>
-      <p>Repositório dedicado a práticas de curadoria de dados, testes de consistência, engenharia de prompt e avaliação de confiabilidade em fluxos de Inteligência Artificial.</p>
-      <p><code>AI Quality</code> <code>Prompt Engineering</code> <code> Validação de Modelos</code></p>
+      <h3>🧪 <a href="https://github.com/TearG/Mod3IAQuality">Algoritmos, Lógica & Validação em Python</a></h3>
+      <p>Repositório de scripts e desafios práticos em <b>Python</b> voltados à construção de algoritmos, estruturas de dados, funções modulares, tratamento de entradas e validação lógica.</p>
+      <p><code>Python</code> <code>Algoritmos</code> <code>Estruturas de Dados</code></p>
     </td>
   </tr>
   <tr>
@@ -95,17 +95,10 @@
 
 ---
 
-## 🔍 Análise Exploratória de Dados (EDA) & Analytics
+## 🔍 Análise Exploratória de Dados (EDA), SQL & Aplicações Analíticas
 
-- 📊 [**PraticaPythonDSChallengeVan**](https://github.com/TearG/PraticaPythonDSChallengeVan) — Resolução de desafios práticos de Ciência de Dados utilizando **Python**, **Pandas**, **NumPy** e **Matplotlib** para limpeza de bases, análise exploratória (EDA) e *data storytelling*.
-- 📉 [**DesafioVoitto**](https://github.com/TearG/DesafioVoitto) — Análise de indicadores operacionais e comerciais, tratamento de dados e geração de insights orientados à decisão.
-- 🐍 [**CursoProgramariaPython**](https://github.com/TearG/CursoProgramariaPython) & [**ProgramariaAlura**](https://github.com/TearG/ProgramariaAlura) — Scripts e notebooks de análise de dados, manipulação de estruturas e visualização estatística em Python.
-
----
-
-## ⚙️ Engenharia de Software, APIs & Automação de Qualidade
-
-- 🧱 [**Cshparp-DDD**](https://github.com/TearG/Cshparp-DDD) — Arquitetura de software em **C# / .NET** aplicando **Domain-Driven Design (DDD)**, separação de camadas e orientação a objetos.
-- 🎬 [**Api-de-Filmes-**](https://github.com/TearG/Api-de-Filmes-) & [**MinhaAPI**](https://github.com/TearG/MinhaAPI) — Construção de APIs RESTful, roteamento HTTP e integração de dados.
-- ✅ [**Test-API-Node-Jest**](https://github.com/TearG/Test-API-Node-Jest) & [**maquina-venda**](https://github.com/TearG/maquina-venda) — Testes unitários e de integração em APIs REST utilizando **Node.js**, **Jest** e desenvolvimento orientado a testes (**TDD**).
-- 🤖 [**Curso-Cypress-Atividades**](https://github.com/TearG/Curso-Cypress-Atividades), [**Robot-Sem-Complica--o**](https://github.com/TearG/Robot-Sem-Complica--o) & [**PrimeiroTesteCucumber**](https://github.com/TearG/PrimeiroTesteCucumber) — Automação de testes End-to-End (E2E) e BDD utilizando **Cypress**, **Robot Framework**, **Cucumber/Gherkin** e **Puppeteer** ([**estudo-puppeteer**](https://github.com/TearG/estudo-puppeteer)).
+- 📊 [**PraticaPythonDSChallengeVan**](https://github.com/TearG/PraticaPythonDSChallengeVan) — Estudo comparativo de desempenho das filiais da rede *Alura Store* utilizando **Python**, **Pandas** e **Matplotlib** para avaliar faturamento, custo de frete, categorias mais vendidas e satisfação dos clientes.
+- 🐍 [**CursoProgramariaPython**](https://github.com/TearG/CursoProgramariaPython) — Notebooks de **Análise Exploratória de Dados**, **Regressão Linear**, análise de dados de **Licitações** e scripts **SQL** de carga e estruturação de bases de municípios e gerências.
+- 📡 [**MinhaAPI**](https://github.com/TearG/MinhaAPI) — API analítica em **Python** e **Pandas** (acompanhada de testes automatizados com `pytest`) que processa a base `advertising.csv` para consulta de investimentos em mídia (TV, Rádio e Jornal) e retorno em vendas.
+- 🎓 [**DesafioVoitto**](https://github.com/TearG/DesafioVoitto) — Sistema Full-Stack de **Dashboard e Controle de Alunos e Cursos**, integrando banco de dados relacional **SQL** (`voitto_desafio.sql`), API REST em **Node.js** e interface web em **React** para cadastro, listagem e vínculo de matrículas.
+- 📐 [**DesafioCromai**](https://github.com/TearG/DesafioCromai) — Calculadora interativa do **Teorema de Pitágoras** que integra uma API matemática em **Python (Flask)** a uma interface Desktop/Web em **React** e **Electron JS**.
